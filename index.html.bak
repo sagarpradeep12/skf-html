@@ -1,0 +1,280 @@
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="images/fevicon.png" type="image/x-icon"> 
+
+    <title>SKF</title>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+	<link rel="stylesheet" rel="preload" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="https://d1heg82t2fu93i.cloudfront.net/b2b/css/slick.css">
+	<link rel="stylesheet" href="https://www.emarketplace.in.skf.com/b2b/css/style.css" >
+	<link rel="stylesheet" href="css/style2.css" >
+	<link rel="stylesheet" href="https://d1heg82t2fu93i.cloudfront.net/b2b/css/responsive.css">
+	<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&family=Roboto:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.0/assets/owl.carousel.min.css">
+
+
+</head>
+
+<body>
+<header class="banner-slider" id="">
+ <div class="backg">
+	<div class="container">
+	<div class="row">
+	   <div class="col-sm-5">
+		<div class="content-left">
+			<h1>Minimize downtime, <br> Maximize efficiency</h1>
+			<div class="btm-content">
+			<h4>PPMR</h4>
+			<p>(Performance based Proactive Reliability Maintenance)</p>
+			</div>
+		</div>  
+	   </div>
+	   <div class="col-sm-7">
+		  <div class="form">
+			 <div class="formleft">
+					<div class="text-center">
+					<h1 class="mb-4">Request a call back in 24hours</h1><br>
+					</div>
+					<form>
+						<div class="row">
+					    <div class="col12 col-6">
+						 <label>Name</label>
+						 <input type="text" class="form-control" id="your-name" name="your-name">
+						</div>
+						 <div class="col12 col-6">
+						 <label>Company</label>
+						  <input type="text" class="form-control" id="your-name" name="your-name">
+						 </div>
+						 </div>
+						 <div class="row">
+						<div class="col12 col-6">
+							<label>Email Id</label>
+						  <input type="text" class="form-control" id="your-surname" name="your-surname">
+						</div>
+						<div class="col12 col-6">
+						  <label>City</label>
+						  <input type="text" class="form-control" id="your-surname" name="your-surname">
+						</div>
+						</div>
+						<div class="row">
+						<div class="col12 col-6">
+							<label>Mobile Number</label>
+						  <input type="text" class="form-control" id="your-surname" name="your-surname">
+						</div>
+						<div class="col12 col-6">
+						  <label>State</label>
+						  <input type="text" class="form-control" id="your-surname" name="your-surname">
+						</div>
+						</div>
+						<div class="row">
+						<div class="col12 col-6">
+							<label>Tell us your requirement</label>
+						  <input type="text" class="form-control" id="your-surname" name="your-surname">
+						</div>
+						<div class="col12 col-6">
+						  <label>Choose File</label>
+						  <input type="file" class="form-control" id="your-surname" name="your-surname">
+						</div>
+						</div>
+						<br>
+
+					  <div class="col12 last text-center">
+							  <button class="btn btn-dark fw-bold">Add to Cart</button>
+						</div>
+					</form> 
+				   </div>               
+		  </div>
+	   </div>
+	</div>
+   </div>
+ </div>
+</header>
+
+<section class="featpro-section bg-color" id="">
+<div class="container">            
+<div class="row">
+<div class="col-md-6 col-sm-6 col-xs-12">
+  <div class="content-items text-center">
+	 <h2>Why choose <br> <span><img src="images/skf-logo.jpg" class="img-responsive"></span> PPMR services?</h2>
+	 <div class="d-flex flex-col">
+	 <div class="col"><img src="images/icon1.jpg" class="img-responsive"> Improved <br> productivity</div>
+	 <div class="col mid"><img src="images/icon2.jpg" class="img-responsive"> On-site <br> assistance</div>
+	 <div class="col"><img src="images/icon3.jpg" class="img-responsive"> Inventory <br> management</div>
+	 <div> 
+  </div>
+</div>
+</div>
+</div>
+<div class="col-md-6 col-sm-6 col-xs-12">
+  <div class="featpro image">
+	 <img src="images/image1.jpg" class="img-responsive">
+  </div>
+</div>
+</div>
+<div class="btmimage">
+	<div class="image">
+	<img src="images/image1.jpg" class="img-responsive">
+	</div>
+</div>
+</div>
+
+</section>
+
+<section class="service-section bg-color" id="">
+<h3>Additional relevant product and services</h3><br>
+         <div class="container">
+            <div class="content-items">
+            
+            <div class="row">
+			<div class="products-sl owl-carousel">
+               <div class="item">
+			   <div class="spacing">
+                  <div class="service-items">                     
+                     <div class="icon">
+                        <img src="images/product-img1.jpg">
+                     </div>        
+					 <h4><a href="#">Lubricantion management</a></h4>
+                  </div>
+               </div>
+               </div>
+			   <div class="item">
+               <div class="spacing">
+                  <div class="service-items">                     
+                     <div class="icon">
+                        <img src="images/product-img2.jpg">
+                     </div>        
+					 <h4><a href="#">Integrated maintenance solution</a></h4>
+                  </div>
+               </div>			   
+               </div>			   
+			   <div class="item">
+			   <div class="spacing">
+                  <div class="service-items">                     
+                     <div class="icon">
+                        <img src="images/product-img3.jpg">
+                     </div>        
+					 <h4><a href="#">Maintenance strategy review</a></h4>
+                  </div>
+               </div>
+               </div>
+			   <div class="item">
+			   <div class="spacing">
+                  <div class="service-items">                     
+                     <div class="icon">
+                        <img src="images/product-img4.jpg">
+                     </div>        
+					 <h4><a href="#">Vibration analysis and diagnostics</a></h4>
+                  </div>
+               </div>
+               </div>
+			   <div class="item">
+			   <div class="spacing">
+                  <div class="service-items">                     
+                     <div class="icon">
+                        <img src="images/product-img5.jpg">
+                     </div>        
+					 <h4><a href="#">Root cause analysis</a></h4>
+                  </div>
+               </div>
+               </div>
+			   <div class="item">
+			   <div class="spacing">
+                  <div class="service-items">                     
+                     <div class="icon">
+                        <img src="images/product-img1.jpg">
+                     </div>        
+					 <h4><a href="#">Lubricantion management</a></h4>
+                  </div>
+               </div>
+               </div>
+            </div>
+            </div>
+            </div>
+         </div>
+      </section>
+	  <section class="testimonial-section bg-color text-left" id="">
+         <div class="container">       
+            <div class="content-items">                  
+               <div class="row">
+               <div class="col-md-2">   
+			   <h3>Customer <br> Insights</h3>
+			   </div>
+               <div class="col-md-7 col-sm-6 col-xs-12 right">   
+               <div class="image-left">
+                  <img src="images/left-elm.png" class="imgresp">
+               </div>
+               <div class="btm-content">  
+				 <div class="testimonial-sl owl-carousel">
+                 <div class="item">
+                 <div class="item-content">
+                  <p>With the fast-growing paper market in India, Paper Machine Uptime & OEE are primary growth drivers for Urvashi Paper to cater to market demand for higher-quality paper. Partnering with SKF will help to achieve the desired Rotating Equipment Performance with greater flexibility on mechanical maintenance cost optimization by improving productivity.</p>
+                  <h2>Sundeep Singh - Gujarat(Urvashi Paper)</h2>
+			     </div>
+			     </div>
+			    </div>
+			   </div>
+			   <div class="image-right">
+                  <img src="images/right-elm.png" class="imgresp">
+               </div>
+              </div>
+            </div>
+           </div>
+      </div>
+     </section>
+</body>
+<script src="js/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.0/owl.carousel.min.js"></script>
+<script>
+$('.products-sl').owlCarousel({
+	 loop: true,
+	 margin: 0,
+	 dots: false,
+	 nav: true,
+	 autoplay: false,
+	 navText: ["<i class='fa fa-angle-left'></i>", "<i class='fa fa-angle-right'></i>"],
+	 responsive: {
+		 0: {
+			 items: 1
+		 },
+		 300: {
+			 items: 1
+		 },
+		 600: {
+			 items: 2
+		 },
+		 1000: {
+			 items: 5
+		 }
+	 }
+ })
+ 
+ $('.testimonial-sl').owlCarousel({
+	 loop: true,
+	 margin: 0,
+	 dots: false,
+	 nav: false,
+	 autoplay: false,
+	 responsive: {
+		 0: {
+			 items: 1
+		 },
+		 300: {
+			 items: 1
+		 },
+		 600: {
+			 items: 1
+		 },
+		 1000: {
+			 items: 1
+		 }
+	 }
+ })
+ </script>
+</html>
+
+
